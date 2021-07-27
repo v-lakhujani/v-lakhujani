@@ -1,5 +1,6 @@
-### Hi there 👋, my name is Vijay
-#### Genomics | Bioinformatics | Coding
+<h3 align="center">Hi there 👋, my name is Vijay</h3>
+
+<h3 align="center">Genomics | Bioinformatics | Coding</h3>
 
 Skills: Python / R / Shell
 
@@ -9,7 +10,6 @@ Skills: Python / R / Shell
 
 ![my github activity graph](https://activity-graph.herokuapp.com/graph?username=v-lakhujani&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true)
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/vijay_lakhujani" target="blank"><img src="https://img.shields.io/twitter/follow/vijay_lakhujani?logo=twitter&style=for-the-badge" alt="vijay_lakhujani" /></a> </p>
 
